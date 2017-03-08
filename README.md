@@ -16,6 +16,7 @@
 
 6. Add path to local git to enable pushing to remote repo.
 
-**going to finish after dinner**
+7. Once your _local_ and _remote_ are set up with correct **username** and **password** you can add your fist commit message.
+  * type `git commit -m "add message here"`
 
 
