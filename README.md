@@ -1,6 +1,6 @@
 # Learning Git and Github with VWC
 
-## Step's we went through
+## Step's *we* went through
 
 1. Create a local repo.
   * Smart name
@@ -14,7 +14,8 @@
 
 5. Copy the repo path ie `https://github.com/volcar/vwc`
 
-6. Add path to local git 
+6. Add path to local git to enable pushing to remote repo.
 
+**going to finish after dinner**
 
 
