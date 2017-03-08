@@ -4,9 +4,9 @@
 
 1. Create a local repo.
   * Smart name
-  * add 2 files  index and README
+  * Add 2 files  index and README
 
-2. Run command "git init"
+2. Run command 'git init'
 
 3. Run command "git add ."
 
