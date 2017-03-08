@@ -6,9 +6,9 @@
   * Smart name
   * Add 2 files  index and README
 
-2. Run command 'git init'
+2. Run command `git init`
 
-3. Run command "git add ."
+3. Run command `git add .`
 
 
 
